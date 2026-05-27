@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pydantic
-sentence-transformers
-faiss-cpu
-pandas
-openai
-python-dotenv
-aiohttp
